@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>labels</key>
+		<array>
+			<dict>
+				<key>content</key>
+				<string>GuanYu</string>
+				<key>type</key>
+				<string>titleImage</string>
+			</dict>
+		</array>
+		<key>headTitle</key>
+		<string></string>
+		<key>hidden</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>labels</key>
+		<array>
+			<dict>
+				<key>content</key>
+				<string>• 成立于1969年
+• 2013年实现销售收入932亿元
+• 全球领先的消费电子制造商
+• 70,000多名员工分布在世界各地
+• 中国企业竞争力500强企业连续两年蝉联第一</string>
+				<key>type</key>
+				<string>txt</string>
+			</dict>
+		</array>
+		<key>headTitle</key>
+		<string>认识海信--海信集团</string>
+		<key>hidden</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>labels</key>
+		<array>
+			<dict>
+				<key>content</key>
+				<string>• 产品：覆盖冰箱、冷柜、洗衣机
+• 拥有海信、容声两个驰名商标
+• 研发：青岛、顺德两个研发中心
+• 生产基地：青岛、顺德、北京、南京、成都、湖州、扬州、营口
+• 年销量1000万台，行业第二名
+• 研究方向：大容量、低耗电、环保、高保鲜、智能化</string>
+				<key>type</key>
+				<string>txt</string>
+			</dict>
+			<dict>
+				<key>content</key>
+				<string>QingDao,ShunDe,ShengLue</string>
+				<key>type</key>
+				<string>img</string>
+			</dict>
+		</array>
+		<key>headTitle</key>
+		<string>认识海信科龙</string>
+		<key>hidden</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>labels</key>
+		<array>
+			<dict>
+				<key>content</key>
+				<string>  海信科龙空调有限公司，创立于1992 年，是海信科龙电器股份有限公司下属的全资子公司，致力于高效、环保、节能空调产品的研发、制造、销售及技术服务 。公司总部位于山东青岛，拥有山东青岛、广东顺德、浙江湖州三大制造工厂，员工8000余人, 年生产能力达600多万套。
+     公司拥有“海信”、“科龙”、“华宝”三个品牌，三品牌当中，海信空调从1995年带着变频空调高起点切入空调业，截止目前在全国变频空调市场上长年占据60％以上份额，奠定了国内变频市场的基础；而“科龙”、“华宝”空调曾在全国产品质量检测中连获“六连冠”，科龙双高效空调研制成功及分立多循环技术的成功应用奠定了科龙在制冷行业中的技术领头羊地位。</string>
+				<key>type</key>
+				<string>txt</string>
+			</dict>
+		</array>
+		<key>headTitle</key>
+		<string>认识空调公司</string>
+		<key>hidden</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>labels</key>
+		<array>
+			<dict>
+				<key>content</key>
+				<string>  海信（浙江）空调有限公司成立于2005年4月22日，由青岛海信空调有限公司和浙江先科电器制造有限公司共同投资创办，注册资本为一亿一千万元人民币。公司从事家用空调器及关联产品的制造、销售，提供相关技术服务和培训，并努力发展成为具备领先技术水平、制造能力的家用空调器制造商和服务商。
+  公司所在的海信浙江家电工业园，地处苏、浙、皖三省交界、长江三角洲杭嘉湖平原的湖州地区长兴经济开发区，交通便利，距上海港180公里。一期园区占地200余亩，厂房面积7万平方米，总投资3亿元人民币，拥有先进的全自动氦检漏装置及其它进口检测设备，四条国内先进的整机成套生产检测流水线，空调年产能力达100万套以上。公司严格按国际质量认证体系标准建立的质量保证体系和一流的革新管理体系，是继海信平度家电工业园（中国最大的变频空调生产基地）之后，目前国内技术先进的变频空调第二大生产基地。为了营造一流的开发、生产和品质控制环境，2005年9月1日，公司再投资1亿元，兴建二期园区。二期园区占地360亩，包括了热交换器加工、钣金加工与喷涂、注塑件加工、电控组装等车间以及整机生产线、焓差实验室，形成完善的空调生产和测试能力。通过不断扩大规模，公司将拥有200万套以上的空调年生产能力。
+  秉承海信集团“高科技、高质量、高水平服务、创国际名牌”的发展战略,以“国内一流企业，国际知名品牌”为发展目标,以“创造完美，服务社会”为核心理念, 以“变频、节能”为产品定位，致力于向消费者提供高品质、高技术含量的空调器产品。
+  “海信空调，变频专家”将激励海信浙江坚定不移的建设品质一流的空调企业，朝着这一目标，海信浙江将不断努力创新，追求卓越!
+海信（浙江）空调有限公司承接国内外客户的OEM业务和Hisense品牌的出口业务，公司成立以来，产品已出口美国、意大利、中东等多个地区和国家，同时已与国内的多个知名企业有OEM合作。</string>
+				<key>type</key>
+				<string>txt</string>
+			</dict>
+		</array>
+		<key>headTitle</key>
+		<string>海信(浙江)空调公司</string>
+		<key>hidden</key>
+		<false/>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,13 @@
+1. 从http://code.google.com/p/gdata-objectivec-client/downloads/list下载“gdata-objective-c client library.”
+
+2. 解压缩文件，找到Source\XMLSupport，并且将其中的GDataXMLNode.h 和 GDataXMLNode.m文件拖到项目中
+
+3. 向工程中增加“libxml2.tdd”库
+
+4. 选中项目，选中“Build Settings”标签页
+
+5. 将Build Settings页中，顶部的“Basic”标签切换到“All”
+
+6. 找到“Paths\Header Search Paths”项，并添加“/usr/include/libxml2”到列表中
+
+7. 找到“Linking\Other Linker Flags”项，并添加“-lxml2”到列表中

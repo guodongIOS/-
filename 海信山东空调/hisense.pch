@@ -1,0 +1,52 @@
+//
+//  hisense.pch
+//  海信山东空调
+//
+//  Created by Sun on 16/3/18.
+//  Copyright © 2016年 kedauis. All rights reserved.
+//
+
+#ifndef hisense_pch
+#define hisense_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* hisense_pch */
+
+
+#define DeviceHeight [UIScreen mainScreen].bounds.size.height
+#define DeviceWidth [UIScreen mainScreen].bounds.size.width
+//#define IPConfig @"http://172.16.160.10:8085/XiTongGuanLi.asmx/"
+#define IPConfig @"http://172.16.215.230:8085/XiTongGuanLi.asmx/"
+#define UIColorFromHex(s) [UIColor colorWithRed:(((s & 0xFF0000) >> 16))/255.0 green:(((s & 0xFF00) >> 8))/255.0 blue:((s &0xFF))/255.0 alpha:1.0]
+
+#define SunFont [UIFont fontWithName:@"Helvetica-Bold" size:20]
+#define TimeOut 5
+
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import <QuartzCore/QuartzCore.h>
+#import "AFNetworking.h"
+#import "SunXMLUtils.h"
+#import "SVProgressHUD.h"
+#import "MBProgressHUD.h"
+#import "MJExtension.h"
+#import "MJRefresh.h"
+#import "JSONKit.h"
+#import "NSArray+Extension.h"
+#import "NSDictionary+Extension.h"
+
+//define this constant if you want to use Masonry without the 'mas_' prefix
+#define MAS_SHORTHAND
+
+//define this constant if you want to enable auto-boxing for default syntax
+#define MAS_SHORTHAND_GLOBALS
+
+#endif
+
+
+
+
+
